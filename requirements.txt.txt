@@ -1,0 +1,4 @@
+stremlit
+fbprophet
+yfinance
+plotly
