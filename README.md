@@ -26,7 +26,15 @@ This app uses Yahoo Finance as the data source to get the historical stock price
 The model used for this app is based on the Prophet model developed by Facebook. It is a powerful time-series forecasting tool that can handle seasonality and trends in the data.
 
 # Example
-Here's an example of how the app looks like:
+<img height= "300px" width="500px" src="https://github.com/Nachiket1904/stockpriceprediction/blob/90f3e483e58aa3327329cc5e8209d54050ab9951/1.png?raw=true" alt="Select the app and select year for the prediction">
+<br>
+<img height= "300px" width="500px" src="https://github.com/Nachiket1904/stockpriceprediction/blob/90f3e483e58aa3327329cc5e8209d54050ab9951/2.png?raw=true" alt="Select the app and select year for the prediction">
+<br>
+<img height= "300px" width="500px" src="https://github.com/Nachiket1904/stockpriceprediction/blob/90f3e483e58aa3327329cc5e8209d54050ab9951/3.png?raw=true" alt="Select the app and select year for the prediction">
+<br>
+<img height= "300px" width="500px" src="https://github.com/Nachiket1904/stockpriceprediction/blob/90f3e483e58aa3327329cc5e8209d54050ab9951/4.png?raw=true" alt="Select the app and select year for the prediction">
+
+
 
 # Contributing
 Contributions to this project are welcome. To contribute, please follow these steps:
